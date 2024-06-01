@@ -225,7 +225,7 @@ body {
   color: white;
 }
 
-.btn-primary:is(:hover, :focus) { background-color: grey; }
+.btn-primary:is(:hover) { background-color: grey; }
 
 .flex-btn {
   display: flex;
